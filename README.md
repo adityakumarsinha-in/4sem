@@ -2,7 +2,7 @@
 
 A clean, minimal, and highly practical landing page designed to help students access **4th semester subject materials** effortlessly. Built during exam time, this tool solved a real issue many students face: **getting lost in a maze of scattered notes, resources, and PDFs**.
 
-🌐 **Live Demo:** [imaksofficial.github.io/4sem](https://imaksofficial.github.io/4sem)
+🌐 **Live Demo:** [Click Here](https://adityakumarsinha-in.github.io/4sem)
 
 ---
 
